@@ -1,0 +1,185 @@
+Question,Answer
+What is cloud computing?,"Cloud computing is the delivery of computing services like storage, databases, and networking over the internet."
+What are the benefits of cloud computing?,"Benefits include scalability, cost-efficiency, flexibility, accessibility, and disaster recovery."
+Who are the major cloud service providers?,"The major cloud providers are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)."
+What are the characteristics of cloud computing?,"Key characteristics include on-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service."
+What is IaaS?,Infrastructure as a Service provides virtualized computing resources over the internet.
+What is PaaS?,"Platform as a Service offers a platform allowing customers to develop, run, and manage applications."
+What is SaaS?,"Software as a Service delivers software applications over the internet, usually on a subscription basis."
+What is the difference between IaaS and PaaS?,"IaaS provides raw infrastructure, while PaaS offers a ready-to-use platform for application development."
+Give an example of SaaS.,"Examples include Google Workspace, Dropbox, and Salesforce."
+What is a public cloud?,"Public cloud is a cloud environment shared by multiple users, managed by third-party providers like AWS or Azure."
+What is a private cloud?,Private cloud is a cloud infrastructure operated solely for a single organization.
+What is a hybrid cloud?,A hybrid cloud combines public and private clouds to allow data and applications to be shared between them.
+What is a community cloud?,"A community cloud is shared by several organizations with common concerns, such as security or compliance."
+What is cloud storage?,Cloud storage allows you to save data on remote servers accessible via the internet.
+What is a virtual machine?,A virtual machine is a software emulation of a physical computer.
+What is block storage?,Block storage stores data in volumes and is commonly used for databases and applications.
+What is object storage?,"Object storage manages data as objects, suitable for storing unstructured data like images and videos."
+What is a virtual private cloud (VPC)?,A VPC is a private network within a public cloud that offers isolated resources.
+What is a CDN?,A Content Delivery Network (CDN) delivers content to users with high availability and performance.
+What is cloud security?,Cloud security involves technologies and policies to protect cloud data and infrastructure.
+What is identity and access management (IAM)?,IAM controls who can access resources in the cloud and what actions they can perform.
+What is data encryption in cloud?,Data encryption secures data by converting it into a coded format that is unreadable without a decryption key.
+What is serverless computing?,Serverless computing allows developers to build applications without managing infrastructure.
+What are containers?,Containers package software and its dependencies to run consistently across environments.
+What is Kubernetes?,"Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications."
+What is Docker?,"Docker is a platform for developing, shipping, and running applications in containers."
+What is cloud monitoring?,"Cloud monitoring involves reviewing, observing, and managing operational workflows in a cloud environment."
+What is auto-scaling?,Auto-scaling automatically adjusts computing resources based on demand.
+What is load balancing?,Load balancing distributes incoming traffic across multiple servers to ensure high availability.
+What is pay-as-you-go in cloud?,Pay-as-you-go means users only pay for the cloud resources they actually use.
+What is cloud cost optimization?,Cloud cost optimization is the process of reducing cloud spending while maximizing performance.
+What is DevOps?,DevOps is a set of practices that combines software development and IT operations.
+What are CI/CD pipelines?,CI/CD pipelines automate the process of software delivery and deployment.
+What is Infrastructure as Code (IaC)?,IaC allows managing and provisioning infrastructure through code.
+What are some DevOps tools used in cloud?,"Common tools include Jenkins, Git, Docker, Kubernetes, and Terraform."
+What are some use cases of cloud computing?,"Use cases include data storage, app hosting, big data analytics, and disaster recovery."
+How is cloud used in education?,"Cloud enables e-learning platforms, data sharing, and virtual labs."
+How is cloud used in healthcare?,"Cloud supports data storage, telemedicine, and electronic health records."
+How is cloud computing used in startups?,"Startups use cloud for cost-effective infrastructure, scalability, and faster deployment."
+What is utility computing?,Utility computing is a service provisioning model where computing resources are provided and charged based on usage.
+What is grid computing?,Grid computing connects multiple computers to form a virtual supercomputer to perform large tasks.
+What is edge computing?,"Edge computing processes data at the edge of the network, closer to the data source, reducing latency."
+What is fog computing?,Fog computing extends cloud capabilities to the edge of the network for faster processing and analytics.
+What is a cloud function?,A cloud function is a serverless compute service that runs code in response to events.
+What is elastic computing?,Elastic computing automatically scales resources up or down as needed.
+What is multitenancy in cloud?,Multitenancy is a cloud architecture where multiple customers share the same resources securely.
+What is a cloud API?,A cloud API is a programmatic interface that allows interaction with cloud services.
+What is backup and disaster recovery in cloud?,It involves storing copies of data and applications to recover from data loss or outages.
+What is Amazon EC2?,"Amazon EC2 is a web service that provides secure, resizable compute capacity in the cloud."
+What is Amazon S3?,Amazon S3 is a scalable object storage service for storing and retrieving any amount of data.
+What is Azure Virtual Machine?,Azure Virtual Machine provides on-demand scalable computing resources in Microsoft Azure.
+What is Google Cloud Functions?,"Google Cloud Functions is a lightweight, event-driven compute service for creating microservices."
+What is AWS Lambda?,AWS Lambda is a serverless compute service that runs your code in response to events.
+What is Google BigQuery?,"Google BigQuery is a serverless, highly scalable, and cost-effective multi-cloud data warehouse."
+What is cloud orchestration?,"Cloud orchestration automates the arrangement, coordination, and management of cloud infrastructure."
+What is cloud provisioning?,Cloud provisioning is the process of setting up cloud resources for use.
+What is a service-level agreement (SLA)?,An SLA is a contract between a service provider and user defining the expected level of service.
+What is an availability zone?,An availability zone is an isolated location within a cloud region with independent power and networking.
+What is a region in cloud?,A region is a geographical area with multiple availability zones for cloud services.
+What is a pricing calculator?,A pricing calculator helps estimate the cost of cloud services before deployment.
+What is reserved instance pricing?,Reserved instance pricing offers discounts for committing to use cloud services over a fixed period.
+What is spot pricing?,Spot pricing allows purchasing unused cloud capacity at discounted rates.
+What is compliance in cloud?,Compliance refers to meeting legal and regulatory standards for data security and privacy.
+What is a firewall in cloud?,A firewall controls incoming and outgoing network traffic based on security rules.
+What is a security group?,A security group acts as a virtual firewall for your cloud instances to control traffic.
+What is Terraform?,"Terraform is an open-source tool for building, changing, and versioning infrastructure safely and efficiently."
+What is Ansible?,"Ansible is an open-source automation tool used for configuration management, application deployment, and task automation."
+What is Jenkins?,Jenkins is a CI/CD automation server used for building and deploying software.
+What is GitOps?,GitOps is a DevOps model that uses Git as the single source of truth for infrastructure and application deployment.
+What is cloud bursting?,Cloud bursting is a hybrid cloud setup where workloads are moved to the public cloud during peak demand.
+What is a container registry?,A container registry is a storage and content delivery system for container images.
+What is a managed service?,A managed service is a cloud service where the provider manages the infrastructure and operations.
+What is zero trust security in cloud?,Zero trust security assumes no user or device is trusted by default and verifies everything.
+What is a cloud-native application?,A cloud-native application is designed specifically to run in cloud environments.
+What is high availability in cloud?,High availability ensures systems remain operational with minimal downtime.
+What is disaster recovery as a service (DRaaS)?,DRaaS is a cloud-based service for data backup and disaster recovery.
+What is cloud migration?,"Cloud migration is the process of moving data, applications, or other business elements to a cloud computing environment."
+What are the phases of cloud migration?,"Phases include assessment, planning, migration, validation, and optimization."
+What are the challenges in cloud migration?,"Challenges include data security, downtime, integration, and compliance."
+What is virtualization?,"Virtualization is the creation of a virtual version of a resource like a server, storage device, or network."
+How does virtualization support cloud computing?,Virtualization enables efficient resource utilization and isolation of services.
+What is a hypervisor?,A hypervisor is software that creates and runs virtual machines.
+What is the difference between VMs and containers?,"VMs virtualize hardware, while containers virtualize the operating system."
+What is container orchestration?,"It is the automated management, deployment, and scaling of containers."
+What are the advantages of serverless computing?,"Advantages include cost efficiency, automatic scaling, and no server management."
+What are the use cases of serverless computing?,"Use cases include APIs, microservices, automation, and real-time data processing."
+What is single sign-on (SSO)?,SSO is an authentication process that allows a user to access multiple applications with one set of credentials.
+What is multi-factor authentication (MFA)?,MFA is a security method requiring multiple forms of verification.
+What is DNS in cloud?,"DNS translates domain names to IP addresses, allowing users to access websites."
+What is a NAT gateway?,A NAT gateway enables instances in a private subnet to connect to the internet.
+What is a load balancer?,A load balancer distributes incoming network traffic across multiple servers.
+What is big data in cloud?,Big data in cloud refers to the processing and analysis of massive data sets using cloud infrastructure.
+What are some big data tools in cloud?,"Tools include Hadoop, Spark, Google BigQuery, and AWS Redshift."
+What is cloud data warehousing?,"It is a database service optimized for analytics and reporting, hosted on the cloud."
+What are the 12-factor app principles?,They are a set of best practices for building cloud-native applications.
+What is microservices architecture?,Microservices architecture structures applications as collections of loosely coupled services.
+What is GDPR in cloud?,GDPR is a regulation that protects personal data and privacy in the EU.
+What is cloud governance?,"Cloud governance is a framework to manage and monitor cloud usage, compliance, and risks."
+What is auditing in cloud?,Auditing tracks user activity and system changes to ensure security and compliance.
+What is OpenStack?,OpenStack is an open-source platform for building and managing cloud infrastructure.
+What is Cloud Foundry?,Cloud Foundry is an open-source PaaS for developing and deploying applications.
+What is Kubernetes used for?,"Kubernetes is used for automating deployment, scaling, and operations of application containers."
+What is technical support in cloud?,It refers to assistance provided by cloud providers to resolve customer issues.
+What happens when SLA is not met?,Providers may offer service credits or refunds as compensation.
+What are emerging trends in cloud computing?,"Trends include AI integration, edge computing, multi-cloud strategies, and sustainability."
+What is green cloud computing?,It refers to environmentally sustainable practices in cloud operations.
+What is FinOps?,FinOps is the practice of cloud financial management to optimize spending.
+What is blue-green deployment?,It is a release technique that reduces downtime and risk by running two identical environments.
+What is canary deployment?,Canary deployment gradually rolls out new features to a small subset of users before full deployment.
+Name the three main types of cloud service models.,"The three main models are IaaS, PaaS, and SaaS."
+Give one example of IaaS.,Amazon EC2 is an example of IaaS.
+Give one example of SaaS.,Google Workspace is an example of SaaS.
+What does “on-demand self-service” mean in cloud computing?,It means users can provision resources as needed automatically without human interaction.
+What is elasticity in cloud computing?,Elasticity is the ability to automatically add or remove resources based on demand.
+What is scalability?,Scalability refers to the capability of a system to handle increased workload by adding resources.
+Define multi-tenancy.,Multi-tenancy is a single instance of software serving multiple customers.
+Name two types of hypervisors.,Type 1 (bare metal) and Type 2 (hosted) hypervisors.
+What is a container?,"A container is a lightweight, standalone package of software including everything needed to run it."
+Name a popular containerization platform.,Docker is a popular containerization platform.
+What is the difference between a VM and a container?,"VMs virtualize hardware, containers virtualize the OS and share the host OS kernel."
+What is public cloud?,A public cloud is a cloud service offered over the public internet and shared across organizations.
+What is private cloud?,A private cloud is a cloud infrastructure operated solely for a single organization.
+Name any three major cloud service providers.,"AWS, Microsoft Azure, and Google Cloud Platform."
+What is AWS?,"Amazon Web Services (AWS) is a comprehensive cloud platform offering computing power, storage, and other services."
+What is Microsoft Azure?,Azure is Microsoft's cloud computing platform and service.
+What is Google Cloud Platform?,GCP is Google’s suite of cloud computing services.
+Which AWS service is used for computing?,Amazon EC2 is used for computing in AWS.
+Which Azure service is used for storage?,Azure Blob Storage is used for storage.
+What is Google Compute Engine?,Google Compute Engine is Google’s IaaS offering for running virtual machines.
+What is Azure Blob Storage?,Azure Blob Storage is Microsoft’s object storage solution for the cloud.
+What is Google Cloud Storage?,Google Cloud Storage is a unified object storage service by Google.
+What is a cloud region?,A cloud region is a geographical location where cloud services are hosted.
+What is cloud billing?,Cloud billing is the method of tracking and charging for cloud service usage.
+Name one advantage of using Google Cloud.,One advantage is integration with Google’s big data and machine learning services.
+What does “resource pooling” mean?,Resource pooling means cloud resources are shared across multiple customers dynamically.
+What is measured service in cloud computing?,"It means resource usage is monitored, controlled, and reported for transparency."
+What is the difference between vertical and horizontal scaling?,Vertical scaling adds power to an existing machine; horizontal adds more machines.
+Name one benefit of cloud computing for businesses.,A major benefit is cost savings and flexibility.
+What is pay-as-you-go pricing?,It is a billing model where you pay only for the resources you use.
+What does “resiliency” mean in the cloud?,Resiliency refers to the system's ability to recover from failures.
+What is fault tolerance?,Fault tolerance is the ability of a system to continue operation even if a component fails.
+What is disaster recovery?,Disaster recovery involves restoring data and systems after a disruption.
+What is uptime in cloud services?,Uptime is the time a cloud service remains operational and available.
+What is downtime?,Downtime is the period when a service is unavailable.
+What does “high availability” mean?,It means the system is continuously operational without interruption.
+Which company introduced AWS?,Amazon introduced AWS.
+What year was AWS launched?,AWS was launched in 2006.
+What does “cloud” symbolize in cloud computing?,The cloud symbolizes the internet or remote servers.
+Is Gmail an example of cloud service?,"Yes, Gmail is a SaaS cloud service."
+Can you access cloud services offline?,"Some features may work offline, but full functionality usually requires an internet connection."
+What is a cloud workload?,A cloud workload refers to an application or service running in a cloud environment.
+What is a multi-cloud strategy?,A multi-cloud strategy involves using services from multiple cloud providers to avoid dependency on a single vendor.
+What is disaster recovery in cloud computing?,Disaster recovery refers to backup and restore procedures to regain access to data and applications after failure.
+What is the shared responsibility model in cloud computing?,It defines security responsibilities between the cloud provider and the customer.
+What is serverless architecture?,Serverless architecture lets developers build and run applications without managing infrastructure.
+What is Azure Functions?,Azure Functions is Microsoft’s serverless computing service for executing code without provisioning infrastructure.
+What is cloud automation?,Cloud automation involves using tools to automatically provision and manage cloud resources.
+What is cloud-native?,Cloud-native refers to applications specifically designed for cloud environments using microservices and containers.
+What is AWS CloudFormation?,AWS CloudFormation allows you to define cloud infrastructure as code for automated provisioning.
+What is continuous integration and delivery (CI/CD)?,"CI/CD automates code integration, testing, and deployment for faster software delivery."
+What is cloud compliance?,Cloud compliance refers to meeting regulatory and security requirements in cloud environments.
+What is GDPR in cloud computing?,GDPR is a European regulation that protects personal data and applies to cloud data handling.
+What is vendor lock-in?,Vendor lock-in occurs when it's difficult to move from one cloud provider to another due to dependencies.
+What is cloud latency?,Cloud latency is the delay in data transfer between a user and cloud resources.
+What is a content delivery network (CDN)?,A CDN distributes content to servers worldwide to reduce latency and improve access speed.
+What is DNS in cloud networking?,DNS (Domain Name System) translates domain names into IP addresses for accessing cloud services.
+What is a subnet in cloud networking?,A subnet is a segmented part of a VPC used to organize cloud resources.
+What is ingress traffic?,Ingress traffic refers to incoming data to a cloud system.
+What is egress traffic?,Egress traffic is data leaving a cloud system.
+What is a firewall in cloud computing?,A firewall controls network traffic to and from cloud resources based on security rules.
+What is horizontal scaling in cloud computing?,Horizontal scaling adds more machines to handle increased workload.
+What is vertical scaling in cloud computing?,"Vertical scaling increases the resources (CPU, RAM) of a single server."
+What is a cloud billing dashboard?,A billing dashboard shows usage and cost details of cloud services.
+What is a cloud trial account?,A cloud trial account provides free limited access to cloud services for testing and learning.
+What is cloud resource tagging?,Tagging is assigning labels to cloud resources for easier management and cost tracking.
+What is an IAM role?,An IAM role defines a set of permissions for making AWS service requests.
+What is role-based access control (RBAC)?,RBAC controls access to cloud resources based on user roles.
+What is cloud sandboxing?,Sandboxing creates an isolated environment for testing or development.
+What is SaaS multi-tenancy?,Multi-tenancy allows a single software instance to serve multiple customers securely.
+What is data sharding in cloud databases?,Data sharding splits large databases into smaller parts for performance and scalability.
+What is read replica in cloud databases?,Read replicas are copies of databases used to distribute read traffic and improve performance.
+What is backup retention policy?,It defines how long cloud backups are stored before deletion.
+What is a snapshot in cloud storage?,A snapshot is a point-in-time copy of a disk or volume for backup.
+What is federated identity in cloud?,Federated identity allows users to access cloud resources using credentials from another identity provider.
